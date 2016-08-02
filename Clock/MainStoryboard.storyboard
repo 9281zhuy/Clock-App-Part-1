@@ -297,7 +297,7 @@
                             <outlet property="delegate" destination="506" id="509"/>
                         </connections>
                     </tableView>
-                    <navigationItem title="Title" id="524" key="navigationItem"/>
+                    <navigationItem id="524" key="navigationItem" title="Clock App"/>
                     <connections>
                         <outlet property="MyTableView" destination="507" id="name-outlet-507"/>
                     </connections>

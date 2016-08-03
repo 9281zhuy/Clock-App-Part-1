@@ -1,6 +1,6 @@
 ﻿<Properties StartupItem="Clock/Clock.csproj">
   <MonoDevelop.Ide.ItemProperties.Clock PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.42A84FB9-2175-433F-B639-491E5F488B6E" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Clock/MenuTableViewController.cs">
+  <MonoDevelop.Ide.Workbench>
     <Files>
       <File FileName="Clock/Resources/About.html" Line="20" Column="51" />
       <File FileName="Clock/ViewControllers/AboutViewController.cs" Line="1" Column="1" />
